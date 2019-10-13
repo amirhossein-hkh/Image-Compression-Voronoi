@@ -13,4 +13,5 @@ I used the second method. In this method, we should first compute the gradients 
 | *The right image was created with less than one-tenth of left image* |
 
 ## Todo
-Using optimise algorithms for constructing voronoi diagram (nlogn)
+* Using optimise algorithms for constructing voronoi diagram (nlogn)
+* Using more sophisticated ways for assigning probability to each pixel

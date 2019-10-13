@@ -11,3 +11,6 @@ I used the second method. In this method, we should first compute the gradients 
 | ![demo](docs/image.jpg) | 
 |:--:| 
 | *The right image was created with less than one-tenth of left image* |
+
+## Todo
+Using optimise algorithms for constructing voronoi diagram (nlogn)
